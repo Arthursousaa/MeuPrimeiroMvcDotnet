@@ -359,7 +359,6 @@ C:\Users\arthur.smachado1\Downloads\MeuPrimeiroMvc (1)\MeuPrimeiroMvc\obj\Debug\
 C:\Users\arthur.smachado1\Downloads\MeuPrimeiroMvc (1)\MeuPrimeiroMvc\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\arthur.smachado1\Downloads\MeuPrimeiroMvc (1)\MeuPrimeiroMvc\obj\Debug\net9.0\scopedcss\bundle\MeuPrimeiroMvc.styles.css
 C:\Users\arthur.smachado1\Downloads\MeuPrimeiroMvc (1)\MeuPrimeiroMvc\obj\Debug\net9.0\scopedcss\projectbundle\MeuPrimeiroMvc.bundle.scp.css
-C:\Users\arthur.smachado1\Downloads\MeuPrimeiroMvc (1)\MeuPrimeiroMvc\obj\Debug\net9.0\compressed\qhref25mz7-b9sayid5wm.gz
 C:\Users\arthur.smachado1\Downloads\MeuPrimeiroMvc (1)\MeuPrimeiroMvc\obj\Debug\net9.0\compressed\y86cmc2gel-61n19gt1b8.gz
 C:\Users\arthur.smachado1\Downloads\MeuPrimeiroMvc (1)\MeuPrimeiroMvc\obj\Debug\net9.0\compressed\q2llpmm1z2-xtxxf3hu2r.gz
 C:\Users\arthur.smachado1\Downloads\MeuPrimeiroMvc (1)\MeuPrimeiroMvc\obj\Debug\net9.0\compressed\uln3ie1uij-bqjiyaj88i.gz
@@ -438,3 +437,5 @@ C:\Users\arthur.smachado1\Downloads\MeuPrimeiroMvc (1)\MeuPrimeiroMvc\obj\Debug\
 C:\Users\arthur.smachado1\Downloads\MeuPrimeiroMvc (1)\MeuPrimeiroMvc\obj\Debug\net9.0\MeuPrimeiroMvc.pdb
 C:\Users\arthur.smachado1\Downloads\MeuPrimeiroMvc (1)\MeuPrimeiroMvc\obj\Debug\net9.0\MeuPrimeiroMvc.genruntimeconfig.cache
 C:\Users\arthur.smachado1\Downloads\MeuPrimeiroMvc (1)\MeuPrimeiroMvc\obj\Debug\net9.0\ref\MeuPrimeiroMvc.dll
+C:\Users\arthur.smachado1\Downloads\MeuPrimeiroMvc (1)\MeuPrimeiroMvc\obj\Debug\net9.0\MeuPrimeiroMvc.sourcelink.json
+C:\Users\arthur.smachado1\Downloads\MeuPrimeiroMvc (1)\MeuPrimeiroMvc\obj\Debug\net9.0\compressed\qhref25mz7-ech8g2zwgg.gz
